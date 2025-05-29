@@ -1,9 +1,9 @@
 # miPrimerRepo
 
-Mi primer repositorio. Yujuu!
-Mi primera contribucion local para remoto.
-Mi primera contribucion remoto para local.
-Un commit mas desde remoto en Github.
-Nueva version
-Cambios desde mi rama local llamada: pruebaPull
-Hola desde proyectoBuilerPlate
+Mi primer repositorio. Yujuu!··  
+Mi primera contribución local para remoto.··  
+Mi primera contribución remoto para local.··  
+Un commit más desde remoto en GitHub.··  
+Nueva versión··  
+Cambios desde mi rama local llamada: pruebaPull.··  
+Hola desde proyectoBuilderPlate.··  
